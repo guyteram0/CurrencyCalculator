@@ -1,0 +1,89 @@
+#a1{
+position: relative;
+margin-left: 500px;
+margin-top: 100px;
+border-style: solid;
+border: 5px double rgb(56, 141, 137);
+width: 550px;
+height: 400px ;
+}
+#head{
+position: relative;
+margin-left: 170px;
+}
+#a2{
+position: absolute;
+margin-left: 150px;
+font-size: 20px ;
+color:rgb(49, 226, 43);
+font-weight: bold;
+}
+
+#a3{
+position: absolute;
+margin-left: 350px;
+font-size: 20px ;
+color:blueviolet;
+font-weight: bold;
+}
+
+#a4{
+position: absolute;
+margin-left: 330px;
+margin-top: 110px;
+color:red;
+font-weight: bold;
+}
+
+#a5{
+position: absolute;
+margin-left: 350px ;
+margin-top: 90px;
+color:orangered;
+font-weight: bold;
+}
+
+#inp1 {
+position: absolute;
+margin-left: 100px ;
+margin-top: 50px;
+background-color:  blue;
+color: white ;
+}
+
+#inp2{
+position: absolute;
+margin-left: 300px ;
+margin-top: 50px ;
+background-color:  blue;
+color: white ;
+width: 170px;
+}
+
+button{
+position: absolute;
+margin-top: 80px ;
+margin-left: 100px;
+height: 90px ;
+width: 160px ;
+background-color:brown;
+color: white ;
+}
+
+#result{
+position: absolute;
+margin-top: 220px;
+margin-left: 230px;
+font-size: x-large;
+color: crimson;
+}
+
+#res{
+position: absolute;
+margin-top: 210px;
+margin-left: 110px;
+font-size: xx-large;
+font-weight: bold;
+
+color: rgb(175, 230, 46); 
+}
